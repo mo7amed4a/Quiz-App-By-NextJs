@@ -1,7 +1,7 @@
 {
     "theme_color": "#570df8",
     "background_color": "#ffffff",
-    "display": "fullscreen",
+    "display": "standalone",
     "scope": "/",
     "start_url": "/",
     "name": "Quiz App by Mo Abdelrahman",
