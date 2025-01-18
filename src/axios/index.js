@@ -2,7 +2,7 @@ import axios from "axios";
 
 async function getProfileData() {
         let data;
-        await axios.get(`https://api.github.com/users/MohamedAbdelrahmanDeveloper`)
+        await axios.get(`https://api.github.com/users/mo7amed4a`)
         .then(res => {
             data = res.data
         });
